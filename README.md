@@ -12,12 +12,16 @@ you can do it in two ways:
 -------
 Insert the .stl file from TOOLS > OPTIONS > MACHINE > ADD
 
+<img src="https://preview.ibb.co/mDQj1e/Insert_from_S3_D.jpg" alt="Insert_from_S3_D" border="0"></a>
+
 2nd WAY
 -------
 i.  Copy & paste Ender3bed.stl to "C:\Program Files\Simplify3D-4.0.1"
 ii. Run Simplify3D and import .fff file "Creality Ender-3.fff" from FILE > IMPORT FF PROFILE
 
 (The fff file has been created combining a lot of other fff files and a lot of testing from me!)
+
+<img src="https://preview.ibb.co/hkzDSK/Import_FFF.jpg" alt="Import_FFF" border="0"></a>
 
 THATS HOW IT LOOKS!
 -------------------
