@@ -26,7 +26,7 @@ ii. Run Simplify3D and import .fff file "Creality Ender-3.fff" from FILE > IMPOR
 
 THATS HOW IT LOOKS!
 -------------------
-<img src="https://preview.ibb.co/byOQRp/View.jpg" alt="View" border="0">
+<img src="https://preview.ibb.co/cNE4mp/View.jpg" alt="View" border="0">
 
 DONATION!
 ---------
