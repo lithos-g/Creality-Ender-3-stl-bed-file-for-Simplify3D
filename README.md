@@ -17,7 +17,8 @@ Insert the .stl file from TOOLS > OPTIONS > MACHINE > ADD
 2nd WAY
 -------
 i.  Copy & paste Ender3bed.stl to "C:\Program Files\Simplify3D-4.0.1"
-ii. Run Simplify3D and import .fff file "Creality Ender-3.fff" from FILE > IMPORT FF PROFILE
+
+ii. Run Simplify3D and import .fff file "Creality Ender-3.fff" from FILE > IMPORT FFF PROFILE
 
 (The fff file has been created combining a lot of other fff files and a lot of testing!)
 
