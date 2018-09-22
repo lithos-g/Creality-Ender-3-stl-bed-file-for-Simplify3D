@@ -12,7 +12,7 @@ you can do it in two ways:
 -------
 Insert the .stl file from TOOLS > OPTIONS > MACHINE > ADD
 
-<img src="https://preview.ibb.co/mDQj1e/Insert_from_S3_D.jpg" alt="Insert_from_S3_D" border="0"></a>
+<img src="https://preview.ibb.co/mDQj1e/Insert_from_S3_D.jpg" alt="Insert_from_S3_D" border="0">
 
 2nd WAY
 -------
@@ -21,11 +21,11 @@ ii. Run Simplify3D and import .fff file "Creality Ender-3.fff" from FILE > IMPOR
 
 (The fff file has been created combining a lot of other fff files and a lot of testing from me!)
 
-<img src="https://preview.ibb.co/hkzDSK/Import_FFF.jpg" alt="Import_FFF" border="0"></a>
+<img src="https://preview.ibb.co/hkzDSK/Import_FFF.jpg" alt="Import_FFF" border="0">
 
 THATS HOW IT LOOKS!
 -------------------
-<img src="https://preview.ibb.co/cJ4GxK/S3_D_Ender3.jpg" alt="S3_D_Ender3" border="0"></a>
+<img src="https://preview.ibb.co/byOQRp/View.jpg" alt="View" border="0">
 
 DONATION!
 ---------
