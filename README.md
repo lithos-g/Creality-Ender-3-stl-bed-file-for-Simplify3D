@@ -27,7 +27,9 @@ ii. Run Simplify3D and import .fff file "Creality Ender-3.fff" from FILE > IMPOR
 3rd WAY (if you have your own fff file)
 ---------------------------------------
 i.  Copy & paste Ender3bed.stl to "C:\Program Files\Simplify3D-4.0.1"
+
 ii. Export your fff file and open it with notepad (I use notepad++)
+
 iii. Find the lines
 
 <img src="https://image.ibb.co/m0CDZ9/01.jpg" alt="01" border="0">
